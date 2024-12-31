@@ -1,0 +1,6 @@
+# PHP交易所完整PHP源码 原生安卓源码+IOS端源码 币币+OTC承兑商+永续
+
+PHP交易所完整PHP源码原生安卓源码+IOS端源码币币+OTC承兑商+永续<br>1、购买前有演示的先看演示站测试，没演示的以详情页介绍和图片为准，有疑问的询问完客服再下单。需要安装的先联系客服，看客服有没有时间提供安装服务再下单<br>2、买之前通过演示进行测试，测试多久都行，请确保要的是演示站和图片上的这种在下单，不要买完了发完货了然后在那挑毛病退款。<br>3、本网站所有商品均为自动发货，如果下载链接失效或者下载出错或者下载慢等问题，请联系客服，可以通过QQ发送源码。<br>=========================================================<br>声明：<br>用户使用本服务的行为若有任何违反国家法律法规或侵犯任何第三方的合法权益的情形时，本店有权并可以暂停或终止向该用户提供服务。<br>若用户利用本服务从事任何违法或侵权行为，由用户自行承担全部责任，本店不承担任何法律及连带责任。因此给本店或任何第三方造成任何损失，用户应负责全额赔偿。<br>如下单即默认同意本服务协议，下单即生效日期！！！发现使用本店任何程序从事金融诈骗类型，bc，cp，等非法活动，发现直接上报有关部门！<br>帮助网络信息犯罪活动罪立案标准：<br>明知他人利用信息网络实施犯罪，为其犯罪提供互联网接入、服务器托管、网络存储、通讯传输等技术支持，或者提供广告推广、支付结算等帮助的应该立案。<br>=========================================================<br>前端演示地址：http://example.com/#/home<br>后台演示地址：http://example.com/admin/auth/login， 账号密码：admin,admin123456<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/r0yYO" style="color: red;">https://mega-file.org/r0yYO</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
